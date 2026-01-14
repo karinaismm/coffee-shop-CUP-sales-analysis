@@ -1,0 +1,261 @@
+﻿date,day_of_week,product_name,size,quantity_sold,price_usd,revenue_usd,category
+2025-12-01,Monday,Cappuccino,All,83,4.85,402.55,Coffee
+2025-12-01,Monday,Coffee,Large,47,3.85,180.95,Coffee
+2025-12-01,Monday,Coffee,Medium,134,3.25,435.5,Coffee
+2025-12-01,Monday,Iced Coffee / Cold Brew,All,70,4.75,332.5,Coffee
+2025-12-01,Monday,Iced Latte,12 oz (Small),33,6,198,Coffee
+2025-12-01,Monday,Iced Latte,16 oz (Medium),106,6.35,673.1,Coffee
+2025-12-01,Monday,Latte,Large,53,6.35,336.55,Coffee
+2025-12-01,Monday,Latte,Medium,115,5.75,661.25,Coffee
+2025-12-01,Monday,Latte,Small,53,5.5,291.5,Coffee
+2025-12-02,Tuesday,Cappuccino,All,77,4.85,373.45,Coffee
+2025-12-02,Tuesday,Coffee,Large,43,3.85,165.55,Coffee
+2025-12-02,Tuesday,Coffee,Medium,123,3.25,399.75,Coffee
+2025-12-02,Tuesday,Iced Coffee / Cold Brew,All,64,4.75,304,Coffee
+2025-12-02,Tuesday,Iced Latte,12 oz (Small),31,6,186,Coffee
+2025-12-02,Tuesday,Iced Latte,16 oz (Medium),97,6.35,615.95,Coffee
+2025-12-02,Tuesday,Latte,Large,49,6.35,311.15,Coffee
+2025-12-02,Tuesday,Latte,Medium,106,5.75,609.5,Coffee
+2025-12-02,Tuesday,Latte,Small,49,5.5,269.5,Coffee
+2025-12-03,Wednesday,Cappuccino,All,124,4.85,601.4,Coffee
+2025-12-03,Wednesday,Coffee,Large,70,3.85,269.5,Coffee
+2025-12-03,Wednesday,Coffee,Medium,198,3.25,643.5,Coffee
+2025-12-03,Wednesday,Iced Coffee / Cold Brew,All,103,4.75,489.25,Coffee
+2025-12-03,Wednesday,Iced Latte,12 oz (Small),49,6,294,Coffee
+2025-12-03,Wednesday,Iced Latte,16 oz (Medium),157,6.35,996.95,Coffee
+2025-12-03,Wednesday,Latte,Large,79,6.35,501.65,Coffee
+2025-12-03,Wednesday,Latte,Medium,172,5.75,989,Coffee
+2025-12-03,Wednesday,Latte,Small,79,5.5,434.5,Coffee
+2025-12-04,Thursday,Cappuccino,All,118,4.85,572.3,Coffee
+2025-12-04,Thursday,Coffee,Large,66,3.85,254.1,Coffee
+2025-12-04,Thursday,Coffee,Medium,189,3.25,614.25,Coffee
+2025-12-04,Thursday,Iced Coffee / Cold Brew,All,98,4.75,465.5,Coffee
+2025-12-04,Thursday,Iced Latte,12 oz (Small),47,6,282,Coffee
+2025-12-04,Thursday,Iced Latte,16 oz (Medium),149,6.35,946.15,Coffee
+2025-12-04,Thursday,Latte,Large,75,6.35,476.25,Coffee
+2025-12-04,Thursday,Latte,Medium,163,5.75,937.25,Coffee
+2025-12-04,Thursday,Latte,Small,75,5.5,412.5,Coffee
+2025-12-05,Friday,Cappuccino,All,66,4.85,320.1,Coffee
+2025-12-05,Friday,Coffee,Large,37,3.85,142.45,Coffee
+2025-12-05,Friday,Coffee,Medium,105,3.25,341.25,Coffee
+2025-12-05,Friday,Iced Coffee / Cold Brew,All,55,4.75,261.25,Coffee
+2025-12-05,Friday,Iced Latte,12 oz (Small),26,6,156,Coffee
+2025-12-05,Friday,Iced Latte,16 oz (Medium),83,6.35,527.05,Coffee
+2025-12-05,Friday,Latte,Large,42,6.35,266.7,Coffee
+2025-12-05,Friday,Latte,Medium,91,5.75,523.25,Coffee
+2025-12-05,Friday,Latte,Small,42,5.5,231,Coffee
+2025-12-06,Saturday,Cappuccino,All,67,4.85,324.95,Coffee
+2025-12-06,Saturday,Coffee,Large,38,3.85,146.3,Coffee
+2025-12-06,Saturday,Coffee,Medium,108,3.25,351,Coffee
+2025-12-06,Saturday,Iced Coffee / Cold Brew,All,56,4.75,266,Coffee
+2025-12-06,Saturday,Iced Latte,12 oz (Small),27,6,162,Coffee
+2025-12-06,Saturday,Iced Latte,16 oz (Medium),85,6.35,539.75,Coffee
+2025-12-06,Saturday,Latte,Large,43,6.35,273.05,Coffee
+2025-12-06,Saturday,Latte,Medium,93,5.75,534.75,Coffee
+2025-12-06,Saturday,Latte,Small,43,5.5,236.5,Coffee
+2025-12-07,Sunday,Cappuccino,All,60,4.85,291,Coffee
+2025-12-07,Sunday,Coffee,Large,34,3.85,130.9,Coffee
+2025-12-07,Sunday,Coffee,Medium,96,3.25,312,Coffee
+2025-12-07,Sunday,Iced Coffee / Cold Brew,All,50,4.75,237.5,Coffee
+2025-12-07,Sunday,Iced Latte,12 oz (Small),24,6,144,Coffee
+2025-12-07,Sunday,Iced Latte,16 oz (Medium),76,6.35,482.6,Coffee
+2025-12-07,Sunday,Latte,Large,38,6.35,241.3,Coffee
+2025-12-07,Sunday,Latte,Medium,83,5.75,477.25,Coffee
+2025-12-07,Sunday,Latte,Small,38,5.5,209,Coffee
+2025-12-08,Monday,Cappuccino,All,74,4.85,358.9,Coffee
+2025-12-08,Monday,Coffee,Large,42,3.85,161.7,Coffee
+2025-12-08,Monday,Coffee,Medium,119,3.25,386.75,Coffee
+2025-12-08,Monday,Iced Coffee / Cold Brew,All,62,4.75,294.5,Coffee
+2025-12-08,Monday,Iced Latte,12 oz (Small),30,6,180,Coffee
+2025-12-08,Monday,Iced Latte,16 oz (Medium),94,6.35,596.9,Coffee
+2025-12-08,Monday,Latte,Large,48,6.35,304.8,Coffee
+2025-12-08,Monday,Latte,Medium,103,5.75,592.25,Coffee
+2025-12-08,Monday,Latte,Small,48,5.5,264,Coffee
+2025-12-09,Tuesday,Cappuccino,All,82,4.85,397.7,Coffee
+2025-12-09,Tuesday,Coffee,Large,46,3.85,177.1,Coffee
+2025-12-09,Tuesday,Coffee,Medium,131,3.25,425.75,Coffee
+2025-12-09,Tuesday,Iced Coffee / Cold Brew,All,68,4.75,323,Coffee
+2025-12-09,Tuesday,Iced Latte,12 oz (Small),33,6,198,Coffee
+2025-12-09,Tuesday,Iced Latte,16 oz (Medium),103,6.35,654.05,Coffee
+2025-12-09,Tuesday,Latte,Large,52,6.35,330.2,Coffee
+2025-12-09,Tuesday,Latte,Medium,113,5.75,649.75,Coffee
+2025-12-09,Tuesday,Latte,Small,52,5.5,286,Coffee
+2025-12-10,Wednesday,Cappuccino,All,112,4.85,543.2,Coffee
+2025-12-10,Wednesday,Coffee,Large,63,3.85,242.55,Coffee
+2025-12-10,Wednesday,Coffee,Medium,181,3.25,588.25,Coffee
+2025-12-10,Wednesday,Iced Coffee / Cold Brew,All,94,4.75,446.5,Coffee
+2025-12-10,Wednesday,Iced Latte,12 oz (Small),45,6,270,Coffee
+2025-12-10,Wednesday,Iced Latte,16 oz (Medium),142,6.35,901.7,Coffee
+2025-12-10,Wednesday,Latte,Large,72,6.35,457.2,Coffee
+2025-12-10,Wednesday,Latte,Medium,156,5.75,897,Coffee
+2025-12-10,Wednesday,Latte,Small,72,5.5,396,Coffee
+2025-12-11,Thursday,Cappuccino,All,117,4.85,567.45,Coffee
+2025-12-11,Thursday,Coffee,Large,66,3.85,254.1,Coffee
+2025-12-11,Thursday,Coffee,Medium,188,3.25,611,Coffee
+2025-12-11,Thursday,Iced Coffee / Cold Brew,All,98,4.75,465.5,Coffee
+2025-12-11,Thursday,Iced Latte,12 oz (Small),47,6,282,Coffee
+2025-12-11,Thursday,Iced Latte,16 oz (Medium),148,6.35,939.8,Coffee
+2025-12-11,Thursday,Latte,Large,75,6.35,476.25,Coffee
+2025-12-11,Thursday,Latte,Medium,162,5.75,931.5,Coffee
+2025-12-11,Thursday,Latte,Small,75,5.5,412.5,Coffee
+2025-12-12,Friday,Cappuccino,All,78,4.85,378.3,Coffee
+2025-12-12,Friday,Coffee,Large,44,3.85,169.4,Coffee
+2025-12-12,Friday,Coffee,Medium,125,3.25,406.25,Coffee
+2025-12-12,Friday,Iced Coffee / Cold Brew,All,65,4.75,308.75,Coffee
+2025-12-12,Friday,Iced Latte,12 oz (Small),31,6,186,Coffee
+2025-12-12,Friday,Iced Latte,16 oz (Medium),99,6.35,628.65,Coffee
+2025-12-12,Friday,Latte,Large,50,6.35,317.5,Coffee
+2025-12-12,Friday,Latte,Medium,108,5.75,621,Coffee
+2025-12-12,Friday,Latte,Small,50,5.5,275,Coffee
+2025-12-13,Saturday,Cappuccino,All,73,4.85,354.05,Coffee
+2025-12-13,Saturday,Coffee,Large,41,3.85,157.85,Coffee
+2025-12-13,Saturday,Coffee,Medium,118,3.25,383.5,Coffee
+2025-12-13,Saturday,Iced Coffee / Cold Brew,All,61,4.75,289.75,Coffee
+2025-12-13,Saturday,Iced Latte,12 oz (Small),29,6,174,Coffee
+2025-12-13,Saturday,Iced Latte,16 oz (Medium),93,6.35,590.55,Coffee
+2025-12-13,Saturday,Latte,Large,47,6.35,298.45,Coffee
+2025-12-13,Saturday,Latte,Medium,101,5.75,580.75,Coffee
+2025-12-13,Saturday,Latte,Small,47,5.5,258.5,Coffee
+2025-12-14,Sunday,Cappuccino,All,64,4.85,310.4,Coffee
+2025-12-14,Sunday,Coffee,Large,36,3.85,138.6,Coffee
+2025-12-14,Sunday,Coffee,Medium,102,3.25,331.5,Coffee
+2025-12-14,Sunday,Iced Coffee / Cold Brew,All,53,4.75,251.75,Coffee
+2025-12-14,Sunday,Iced Latte,12 oz (Small),25,6,150,Coffee
+2025-12-14,Sunday,Iced Latte,16 oz (Medium),81,6.35,514.35,Coffee
+2025-12-14,Sunday,Latte,Large,41,6.35,260.35,Coffee
+2025-12-14,Sunday,Latte,Medium,88,5.75,506,Coffee
+2025-12-14,Sunday,Latte,Small,41,5.5,225.5,Coffee
+2025-12-15,Monday,Cappuccino,All,78,4.85,378.3,Coffee
+2025-12-15,Monday,Coffee,Large,44,3.85,169.4,Coffee
+2025-12-15,Monday,Coffee,Medium,125,3.25,406.25,Coffee
+2025-12-15,Monday,Iced Coffee / Cold Brew,All,65,4.75,308.75,Coffee
+2025-12-15,Monday,Iced Latte,12 oz (Small),31,6,186,Coffee
+2025-12-15,Monday,Iced Latte,16 oz (Medium),99,6.35,628.65,Coffee
+2025-12-15,Monday,Latte,Large,50,6.35,317.5,Coffee
+2025-12-15,Monday,Latte,Medium,108,5.75,621,Coffee
+2025-12-15,Monday,Latte,Small,50,5.5,275,Coffee
+2025-12-16,Tuesday,Cappuccino,All,78,4.85,378.3,Coffee
+2025-12-16,Tuesday,Coffee,Large,44,3.85,169.4,Coffee
+2025-12-16,Tuesday,Coffee,Medium,124,3.25,403,Coffee
+2025-12-16,Tuesday,Iced Coffee / Cold Brew,All,65,4.75,308.75,Coffee
+2025-12-16,Tuesday,Iced Latte,12 oz (Small),31,6,186,Coffee
+2025-12-16,Tuesday,Iced Latte,16 oz (Medium),98,6.35,622.3,Coffee
+2025-12-16,Tuesday,Latte,Large,50,6.35,317.5,Coffee
+2025-12-16,Tuesday,Latte,Medium,108,5.75,621,Coffee
+2025-12-16,Tuesday,Latte,Small,50,5.5,275,Coffee
+2025-12-17,Wednesday,Cappuccino,All,121,4.85,586.85,Coffee
+2025-12-17,Wednesday,Coffee,Large,68,3.85,261.8,Coffee
+2025-12-17,Wednesday,Coffee,Medium,195,3.25,633.75,Coffee
+2025-12-17,Wednesday,Iced Coffee / Cold Brew,All,101,4.75,479.75,Coffee
+2025-12-17,Wednesday,Iced Latte,12 oz (Small),48,6,288,Coffee
+2025-12-17,Wednesday,Iced Latte,16 oz (Medium),154,6.35,977.9,Coffee
+2025-12-17,Wednesday,Latte,Large,78,6.35,495.3,Coffee
+2025-12-17,Wednesday,Latte,Medium,168,5.75,966,Coffee
+2025-12-17,Wednesday,Latte,Small,78,5.5,429,Coffee
+2025-12-18,Thursday,Cappuccino,All,105,4.85,509.25,Coffee
+2025-12-18,Thursday,Coffee,Large,59,3.85,227.15,Coffee
+2025-12-18,Thursday,Coffee,Medium,168,3.25,546,Coffee
+2025-12-18,Thursday,Iced Coffee / Cold Brew,All,87,4.75,413.25,Coffee
+2025-12-18,Thursday,Iced Latte,12 oz (Small),42,6,252,Coffee
+2025-12-18,Thursday,Iced Latte,16 oz (Medium),133,6.35,844.55,Coffee
+2025-12-18,Thursday,Latte,Large,67,6.35,425.45,Coffee
+2025-12-18,Thursday,Latte,Medium,146,5.75,839.5,Coffee
+2025-12-18,Thursday,Latte,Small,67,5.5,368.5,Coffee
+2025-12-19,Friday,Cappuccino,All,83,4.85,402.55,Coffee
+2025-12-19,Friday,Coffee,Large,47,3.85,180.95,Coffee
+2025-12-19,Friday,Coffee,Medium,133,3.25,432.25,Coffee
+2025-12-19,Friday,Iced Coffee / Cold Brew,All,69,4.75,327.75,Coffee
+2025-12-19,Friday,Iced Latte,12 oz (Small),33,6,198,Coffee
+2025-12-19,Friday,Iced Latte,16 oz (Medium),105,6.35,666.75,Coffee
+2025-12-19,Friday,Latte,Large,53,6.35,336.55,Coffee
+2025-12-19,Friday,Latte,Medium,115,5.75,661.25,Coffee
+2025-12-19,Friday,Latte,Small,53,5.5,291.5,Coffee
+2025-12-20,Saturday,Cappuccino,All,66,4.83,319.1,Coffee
+2025-12-20,Saturday,Coffee,All,104,3.85,400.75,Coffee
+2025-12-20,Saturday,Iced Latte,12 oz (Small),20,6.01,120.2,Coffee
+2025-12-20,Saturday,Iced Latte,16 oz (Medium),65,6.35,412.85,Coffee
+2025-12-20,Saturday,Latte,Large,34,6.34,215.5,Coffee
+2025-12-20,Saturday,Latte,Medium,76,5.71,434.2,Coffee
+2025-12-20,Saturday,Latte,Small,34,5.54,188.2,Coffee
+2025-12-21,Sunday,Cappuccino,All,59,4.85,286.15,Coffee
+2025-12-21,Sunday,Coffee,Large,33,3.85,127.05,Coffee
+2025-12-21,Sunday,Coffee,Medium,94,3.25,305.5,Coffee
+2025-12-21,Sunday,Iced Coffee / Cold Brew,All,49,4.75,232.75,Coffee
+2025-12-21,Sunday,Iced Latte,12 oz (Small),24,6,144,Coffee
+2025-12-21,Sunday,Iced Latte,16 oz (Medium),74,6.35,469.9,Coffee
+2025-12-21,Sunday,Latte,Large,38,6.35,241.3,Coffee
+2025-12-21,Sunday,Latte,Medium,82,5.75,471.5,Coffee
+2025-12-21,Sunday,Latte,Small,38,5.5,209,Coffee
+2025-12-22,Monday,Coffee,All,59,3.44,203.05,Coffee
+2025-12-22,Monday,Iced Coffee / Cold Brew,All,41,4.77,195.65,Coffee
+2025-12-22,Monday,Iced Latte,All,33,6.5,214.55,Coffee
+2025-12-22,Monday,Latte,All,89,5.88,523.1,Coffee
+2025-12-23,Tuesday,Cappuccino,All,53,4.95,262.45,Coffee
+2025-12-23,Tuesday,Coffee,Large,18,3.82,68.7,Coffee
+2025-12-23,Tuesday,Coffee,Medium,52,3.25,169,Coffee
+2025-12-23,Tuesday,Iced Latte,12 oz (Small),6,5.98,35.9,Coffee
+2025-12-23,Tuesday,Iced Latte,16 oz (Medium),22,6.52,143.5,Coffee
+2025-12-23,Tuesday,Latte,All,78,5.89,459.65,Coffee
+2025-12-24,Wednesday,Cappuccino,All,117,4.85,567.45,Coffee
+2025-12-24,Wednesday,Coffee,Large,66,3.85,254.1,Coffee
+2025-12-24,Wednesday,Coffee,Medium,189,3.25,614.25,Coffee
+2025-12-24,Wednesday,Iced Coffee / Cold Brew,All,98,4.75,465.5,Coffee
+2025-12-24,Wednesday,Iced Latte,12 oz (Small),47,6,282,Coffee
+2025-12-24,Wednesday,Iced Latte,16 oz (Medium),149,6.35,946.15,Coffee
+2025-12-24,Wednesday,Latte,Large,75,6.35,476.25,Coffee
+2025-12-24,Wednesday,Latte,Medium,163,5.75,937.25,Coffee
+2025-12-24,Wednesday,Latte,Small,75,5.5,412.5,Coffee
+2025-12-25,Thursday,Cappuccino,All,108,4.85,523.8,Coffee
+2025-12-25,Thursday,Coffee,Large,61,3.85,234.85,Coffee
+2025-12-25,Thursday,Coffee,Medium,174,3.25,565.5,Coffee
+2025-12-25,Thursday,Iced Coffee / Cold Brew,All,90,4.75,427.5,Coffee
+2025-12-25,Thursday,Iced Latte,12 oz (Small),43,6,258,Coffee
+2025-12-25,Thursday,Iced Latte,16 oz (Medium),138,6.35,876.3,Coffee
+2025-12-25,Thursday,Latte,Large,69,6.35,438.15,Coffee
+2025-12-25,Thursday,Latte,Medium,150,5.75,862.5,Coffee
+2025-12-25,Thursday,Latte,Small,69,5.5,379.5,Coffee
+2025-12-26,Friday,Cappuccino,All,73,4.85,354.05,Coffee
+2025-12-26,Friday,Coffee,Large,41,3.85,157.85,Coffee
+2025-12-26,Friday,Coffee,Medium,117,3.25,380.25,Coffee
+2025-12-26,Friday,Iced Coffee / Cold Brew,All,61,4.75,289.75,Coffee
+2025-12-26,Friday,Iced Latte,12 oz (Small),29,6,174,Coffee
+2025-12-26,Friday,Iced Latte,16 oz (Medium),92,6.35,584.2,Coffee
+2025-12-26,Friday,Latte,Large,47,6.35,298.45,Coffee
+2025-12-26,Friday,Latte,Medium,101,5.75,580.75,Coffee
+2025-12-26,Friday,Latte,Small,47,5.5,258.5,Coffee
+2025-12-27,Saturday,Cappuccino,All,75,4.85,363.75,Coffee
+2025-12-27,Saturday,Coffee,Large,42,3.85,161.7,Coffee
+2025-12-27,Saturday,Coffee,Medium,121,3.25,393.25,Coffee
+2025-12-27,Saturday,Iced Coffee / Cold Brew,All,63,4.75,299.25,Coffee
+2025-12-27,Saturday,Iced Latte,12 oz (Small),30,6,180,Coffee
+2025-12-27,Saturday,Iced Latte,16 oz (Medium),95,6.35,603.25,Coffee
+2025-12-27,Saturday,Latte,Large,48,6.35,304.8,Coffee
+2025-12-27,Saturday,Latte,Medium,105,5.75,603.75,Coffee
+2025-12-27,Saturday,Latte,Small,48,5.5,264,Coffee
+2025-12-28,Sunday,Cappuccino,All,61,4.85,295.85,Coffee
+2025-12-28,Sunday,Coffee,Large,34,3.85,130.9,Coffee
+2025-12-28,Sunday,Coffee,Medium,98,3.25,318.5,Coffee
+2025-12-28,Sunday,Iced Coffee / Cold Brew,All,51,4.75,242.25,Coffee
+2025-12-28,Sunday,Iced Latte,12 oz (Small),24,6,144,Coffee
+2025-12-28,Sunday,Iced Latte,16 oz (Medium),77,6.35,488.95,Coffee
+2025-12-28,Sunday,Latte,Large,39,6.35,247.65,Coffee
+2025-12-28,Sunday,Latte,Medium,84,5.75,483,Coffee
+2025-12-28,Sunday,Latte,Small,39,5.5,214.5,Coffee
+2025-12-29,Monday,Cappuccino,All,78,4.85,378.3,Coffee
+2025-12-29,Monday,Coffee,Large,44,3.85,169.4,Coffee
+2025-12-29,Monday,Coffee,Medium,124,3.25,403,Coffee
+2025-12-29,Monday,Iced Coffee / Cold Brew,All,65,4.75,308.75,Coffee
+2025-12-29,Monday,Iced Latte,12 oz (Small),31,6,186,Coffee
+2025-12-29,Monday,Iced Latte,16 oz (Medium),99,6.35,628.65,Coffee
+2025-12-29,Monday,Latte,Large,50,6.35,317.5,Coffee
+2025-12-29,Monday,Latte,Medium,108,5.75,621,Coffee
+2025-12-29,Monday,Latte,Small,50,5.5,275,Coffee
+2025-12-30,Tuesday,Cappuccino,All,84,4.85,407.4,Coffee
+2025-12-30,Tuesday,Coffee,Large,47,3.85,180.95,Coffee
+2025-12-30,Tuesday,Coffee,Medium,135,3.25,438.75,Coffee
+2025-12-30,Tuesday,Iced Coffee / Cold Brew,All,70,4.75,332.5,Coffee
+2025-12-30,Tuesday,Iced Latte,12 oz (Small),34,6,204,Coffee
+2025-12-30,Tuesday,Iced Latte,16 oz (Medium),106,6.35,673.1,Coffee
+2025-12-30,Tuesday,Latte,Large,54,6.35,342.9,Coffee
+2025-12-30,Tuesday,Latte,Medium,116,5.75,667,Coffee
+2025-12-30,Tuesday,Latte,Small,54,5.5,297,Coffee
