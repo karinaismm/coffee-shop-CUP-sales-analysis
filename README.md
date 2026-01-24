@@ -65,7 +65,7 @@ I created a Tableau dashboard with:
 - Data dictionary and documentation
 
 ## Links
-- **Tableau Dashboard:** [PASTE YOUR TABLEAU PUBLIC LINK HERE]
+- **Tableau Dashboard:** https://public.tableau.com/views/coffeshop_17684340856430/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Repository Structure
 data/
