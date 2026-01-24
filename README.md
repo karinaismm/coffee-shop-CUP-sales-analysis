@@ -1,71 +1,113 @@
-# coffee-shop-CUP-sales-analysis
-Anonymized coffee shop sales &amp; hourly traffic analysis (Dec 2025) with insights and operational recommendations.
-
 # Cup Café — Sales & Hourly Traffic Analysis (Dec 2025)
 
-*Note: “Cup Café” is a fictional name used for portfolio purposes; the dataset is anonymized and partially synthetic.*
+**Repository:** coffee-shop-CUP-sales-analysis  
+**Summary:** An anonymized coffee shop sales and hourly traffic analysis (December 2025) built in Tableau Public, with insights and operational recommendations.
+
+> **Note:** “Cup Café” is a fictional business name used for portfolio purposes.  
+The dataset is anonymized and partially synthetic.
+
+---
 
 ## Project Overview
-This portfolio project analyzes coffee beverage sales and hourly traffic patterns for an anonymized coffee shop (“Cup Café”) during **December 2025**.  
-The goal is to identify revenue drivers, understand peak demand hours, and provide operational recommendations (staffing, prep, and performance monitoring).
+This portfolio project analyzes coffee beverage sales performance and hourly customer traffic patterns for an anonymized coffee shop during **December 2025**.
 
-## Business Task (Ask)
+The objective is to identify key revenue drivers, understand peak demand windows, and translate analytical findings into actionable operational recommendations related to staffing, preparation planning, and performance monitoring.
+
+---
+
+## Business Task
 **How can Cup Café improve staffing and daily operations based on sales performance and customer traffic patterns?**
 
-### Key Questions
-- Which beverages drive the most revenue and volume?
-- What are the busiest days and the slowest day of the week?
-- What are the peak hours on weekdays vs weekends?
-- How can staffing and prep be optimized around demand peaks?
+---
 
-## Data (Prepare)
-**Source:** An Excel workbook + two CSV exports used in Tableau.
-- `sales_daily.csv` — daily beverage sales by date/product/size (revenue and units).
-- `hours_daily.csv` — estimated hourly transactions for each day (traffic model).
+## Key Questions
+- Which beverages generate the highest revenue and sales volume?
+- What are the busiest and slowest days of the week?
+- How do peak demand hours differ between weekdays and weekends?
+- How can staffing and preparation be optimized around demand peaks?
+
+---
+
+## Data
+**Source:** Excel workbook with two CSV exports used in Tableau.
+
+- `sales_daily.csv` — daily beverage sales by date, product, and size (revenue and units)
+- `hours_daily.csv` — estimated hourly transactions by day and hour (traffic model)
 
 ### Data Notes
-- The dataset is **anonymized** (no real store identifiers).
-- The workbook includes a **limited real sample** manually transcribed from photos (selected beverage lines only), plus a **synthetic month dataset** generated using documented assumptions.
+- The dataset is fully anonymized and contains no real store identifiers.
+- Includes a limited manually transcribed real sample (selected beverage lines) combined with a synthetic monthly dataset generated using documented assumptions.
+- Intended solely for portfolio demonstration purposes.
 
-## Process (Cleaning & Setup)
-- Standardized field names and data types (date, numeric measures).
-- Ensured totals are not double-counted when size breakdowns exist.
-- Created calculated fields in Tableau (e.g., **Day Type = Weekday/Weekend**, hour formatting for time-series charts).
-- Exported clean analysis-ready tables as CSV for easy GitHub preview and Tableau connection.
+---
 
-## Analysis (What I Built)
-I created a Tableau dashboard with:
-- **Daily Revenue trend (Dec 2025)**  
-- **Revenue by Product (Top beverages)**  
-- **Revenue by Day of Week** (to highlight slow vs strong days)  
-- **Hourly Traffic pattern** (weekday vs weekend peaks)
+## Data Preparation & Processing
+- Standardized field names and data types (dates, measures, and dimensions)
+- Ensured totals were not double-counted when size-level breakdowns were present
+- Created Tableau calculated fields, including:
+  - Day Type (Weekday / Weekend)
+  - Hour formatting for time-series analysis
+- Exported clean, analysis-ready CSV files for GitHub preview and Tableau connection
 
-### Modeling Assumptions (Hourly Traffic)
-- Store hours: **7:00 AM – 7:00 PM**
-- Peak demand:
-  - **Weekdays:** 08:00–09:00 and a second peak around **12:40–1:30 PM**
-  - **Weekends:** 10:00–11:00
-- After **6:00 PM**, customer traffic decreases compared to 3:00–5:00 PM.
+---
 
-## Key Insights (Example)
-- A consistent **slow day** appears mid-week (Wednesday).
-- Weekday demand peaks in the morning and during lunch hours.
-- Weekend peak shifts later (10–11 AM).
-- After 6 PM, traffic drops, suggesting opportunity to reduce staffing or shift tasks.
+## Analysis & Dashboard
+An interactive Tableau dashboard was developed, including:
 
-## Recommendations (Act)
-1) **Staffing:** Increase coverage during peak windows (weekday mornings + lunch; weekends 10–11).  
-2) **After 6 PM:** Reduce staffing or reassign to prep/cleaning tasks due to lower demand.  
-3) **Inventory & prep:** Prioritize top revenue drinks (latte/iced latte/coffee) ahead of peak periods.  
-4) **Next data step:** Collect longer real POS exports (8–12 weeks) to validate seasonality and improve forecasting.
+- KPI cards: Units Sold, Total Revenue, Revenue per Unit, Transactions
+- Daily Revenue trend for December 2025 with a reference average line
+- Revenue by Product analysis highlighting top-performing beverages
+- Day × Hour heatmap visualizing traffic intensity by weekday and hour
+- Day Type filter enabling weekday versus weekend comparison
+
+---
+
+## Key Insights (December 2025)
+- Latte is the top revenue-generating beverage.
+- Customer demand peaks during the morning rush (8–10 AM).
+- Weekdays outperform weekends in overall sales activity.
+- Traffic declines after approximately 3 PM, indicating potential opportunities to optimize labor allocation.
+
+---
+
+## Modeling Assumptions (Hourly Traffic)
+- Store operating hours: 7:00 AM – 7:00 PM
+- Peak demand patterns:
+  - Weekdays: 8–9 AM and a secondary lunch peak around 12:40–1:30 PM
+  - Weekends: 10–11 AM
+- Customer traffic decreases after 6:00 PM compared to the 3:00–5:00 PM period
+
+---
+
+## Recommendations
+- **Staffing:** Increase coverage during weekday morning and lunch peaks; weekends from 10–11 AM.
+- **Late afternoon / evening:** Reduce staffing or reassign labor to cleaning and preparation tasks after approximately 3–6 PM.
+- **Inventory & preparation:** Prioritize high-revenue beverages (latte, iced latte, coffee) ahead of peak demand windows.
+- **Next analytical step:** Collect 8–12 weeks of real POS data to validate seasonality and improve forecasting accuracy.
+
+---
+
+## Tools & Skills
+- Tableau Public (dashboards, filters, calculated fields, formatting)
+- Data cleaning and structuring (CSV, Excel)
+- KPI reporting and trend analysis
+- Product contribution and traffic pattern analysis
+- Operational analytics and data-driven recommendations
+
+---
 
 ## Deliverables
-- Tableau dashboard (link below)
+- Interactive Tableau dashboard
 - Clean CSV datasets for review on GitHub
-- Data dictionary and documentation
+- Documentation, assumptions, and recommendations
+
+---
 
 ## Links
-- **Tableau Dashboard:** https://public.tableau.com/views/coffeshop_17684340856430/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Live Tableau Dashboard:**  
+https://public.tableau.com/views/coffeshop_17684340856430/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
 
 ## Repository Structure
 data/
@@ -73,6 +115,8 @@ sales_daily.csv
 hours_daily.csv
 visuals/
 dashboard.png
+weekends.png
+weekdays.png
 README.md
 
 
